@@ -145,7 +145,7 @@ header.index-top{
 
 header.index-top .search{
     background: #FF0036;
-    width:400px;
+    width:200px;
     height:42px;
     margin: 50px auto;
     padding: 0;
@@ -212,7 +212,7 @@ section.head-bar{
 section.head-bar .c-menu{
     display: inline-block;
     width:200px;
-    background: #FF0036;
+    background: #FFF02E;
     height:36px;
     line-height: 36px;
     font-size:16px;

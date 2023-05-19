@@ -27,5 +27,5 @@
         </c:if>
     </c:forEach>
 
-    <img src="img/end.png" class="end-png" id="endpng">
+    <img src="img/end2.png" class="end-png" id="endpng">
 </main>

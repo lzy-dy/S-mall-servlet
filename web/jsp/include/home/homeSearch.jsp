@@ -6,8 +6,8 @@
 <script src="js/index.js"></script>
 
 <header class="index-top">
-    <a href="/" class="logo">
-        <img src="img/logo.png">
+    <a href="/" class="logo1">
+        <img src="img/logo1.png">
     </a>
     <div class="search">
         <form action="search" >
