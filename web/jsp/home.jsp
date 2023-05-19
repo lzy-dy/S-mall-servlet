@@ -7,11 +7,11 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<c:set var="title" value="天猫首页" />
+<c:set var="title" value="校园商城首页" />
 <%@include file="include/header.jsp"%>
 <c:set var="home" value="home" />
 <%@include file="include/top.jsp"%>
 <%@include file="include/home/homeSearch.jsp"%>
 <%@include file="include/home/homeCenter.jsp"%>
 <%@include file="include/home/homeBottom.jsp"%>
-<%@include file="include/footer.jsp"%>
+<%--<%@include file="include/footer.jsp"%>--%>

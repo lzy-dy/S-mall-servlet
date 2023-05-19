@@ -144,7 +144,7 @@ header.index-top{
 }
 
 header.index-top .search{
-    background: #FF0036;
+    background: #fff02e;
     width:400px;
     height:42px;
     margin: 50px auto;
@@ -164,7 +164,7 @@ header.index-top .search input{
 header.index-top .search button{
     width:110px;
     border:0;/*取消边框*/
-    background: #FF0036;/*和背景色融为一体*/
+    background: #fff02e;/*和背景色融为一体*/
     color:white;
     font-weight:bold;
     font-size:20px;
@@ -264,7 +264,7 @@ section.carousel img.carousel-image{
 }
 
 section.carousel .m-menu{
-    width:200px;
+    width:400px;
     height:460px;
     position: absolute;
     top:0;
